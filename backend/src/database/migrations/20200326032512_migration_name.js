@@ -1,7 +1,7 @@
 // Cria tabela
 exports.up = function(knex) {
 
-    return knex.schema.createTable('ongs', function (table) {
+    return knex.schema.createTable('ongs_2', function (table) {
 
         table.string('id').primary();
         table.string('name2').notNullable();
@@ -15,5 +15,5 @@ exports.up = function(knex) {
 
 // Deleta tabela
 exports.down = function(knex) {
-  return knex.schema.dropTable('ongs');
+  return knex.schema.dropTable('ongs_2');
 };
