@@ -5,7 +5,7 @@ import { View, FlatList, Image, Text, TouchableOpacity } from 'react-native';
 
 import api from '../../services/api';
 
-import logoImg from '../../assets/logo.png'
+import logoImg from '../../assets/logo.png';
 import styles from './styles';
 
 export default function Incidents() {
@@ -33,9 +33,7 @@ export default function Incidents() {
 
         setLoading(true);
 
-        const response = await api.get('incidents', {
-            params: { page }
-        });
+        const response = await api.get('incidents', { params: { page } });
 
         setIncidents([...incidents, ...response.data]);
         setTotal(response.headers['x-total-count']);
