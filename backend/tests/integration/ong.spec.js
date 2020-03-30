@@ -4,14 +4,14 @@ const connection = require('../../src/database/connection');
 
 describe('ONG', () =>{
     beforeEach(async () => {
-        await connection.migrate.rollback();
-        await connection.migrate.latest();
+        //await connection.migrate.rollback();
+        await connection.migrate.up(create_ongs);
     });
 
 
     afterAll(async () => {
         await connection.destroy();
-    })
+    });
 
     it('Should be able to create a new ONG', async () => {
         const response = await request(app)

@@ -14,28 +14,3 @@ app.use(errors());
 
 // localhost:3333
 module.exports = app;
-
-/* 
-*   Rota /Recurso
-*
-*   Métodos HTTP:
-*
-*   GET: Buscar/Listar uma info do back-end
-*   POST: Criar um info no back-end
-*   PUT: Alterar uma info no back-end
-*   DELETE: Deleter uma info do back-end
-*
-*
-    Tipos de parametros:
-    
-    Query: Parametros nomeados na rotaapos o '?' (Filtros/Paginação)
-    Route: Utilizados para identificar recursos
-    Request Body: Corpo da requisição, utilizado para criar ou alterar recursos
-
-    SQL - MySQL, SQLite, PostgreSQL, Oracle, Microsoft SQL
-    NoSQL - MongoDB, CouchDB
-
-    Driver: SELECT * FROM users
-    Query Builder: table('users').select('*').where() - KNEX.js
-
-*/

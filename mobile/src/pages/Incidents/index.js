@@ -35,7 +35,7 @@ export default function Incidents() {
 
         const response = await api.get('incidents', { params: { page } });
 
-        setIncidents([...incidents, ...response.data]);
+        setIncidents([ ...incidents, ...response.data ]);
         setTotal(response.headers['x-total-count']);
         setPage(page + 1);
         setLoading(false);
@@ -71,13 +71,13 @@ export default function Incidents() {
                     <View style={styles.incident}>
 
                         <Text style={styles.incidentProperty}>ONG:</Text>
-                        <Text style={styles.incidentValue}>{incident.name}</Text>
+                        <Text style={styles.incidentValue}>Nome da ONG{incident.name}</Text>
 
                         <Text style={styles.incidentProperty}>CASO:</Text>
-                        <Text style={styles.incidentValue}>{incident.title}</Text>
+                        <Text style={styles.incidentValue}>Descrição{incident.title}</Text>
 
                         <Text style={styles.incidentProperty}>VALOR:</Text>
-                        <Text style={styles.incidentValue}>
+                        <Text style={styles.incidentValue}>VALOR
                             {Intl.NumberFormat
                             (
                                 'pt-BR', 
