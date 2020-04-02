@@ -46,11 +46,13 @@ yarn start
 <br>
 Then run the <b>desktop</b> version, starting the frontend, following these steps:
 <br>
+
 ```bash
 cd frontend
 yarn install
 yarn start
 ```
+
 Go to <a href="https://localhost:3000" title="port 3000" target="_blank">Be The Hero</a>
 to see the aplication on port 3000.
 <br>
