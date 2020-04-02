@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/caplaum/be-the-hero" title="Be The Hero">
+  <a href="https://github.com/capelaum/Be-The-Hero-Web-App" title="Be The Hero">
   <img src="https://i.postimg.cc/LsWC5Gxg/bethehero.png"/>
   </a>
 </h1>
@@ -37,7 +37,7 @@ of any kind.
 
 Register your ONG and incidents.
 <br>
-First run the [backend]: 
+First run the <b>backend</b>: 
 
 ```bash
 cd backend
@@ -45,21 +45,22 @@ yarn install
 yarn start
 ```
 <br>
-Then run the desktop version following these steps:
+Then run the <b>desktop</b> version, starting the frontend, following these steps:
 
 ```bash
 cd frontend
 yarn install
 yarn start
 ```
-
+Go to <a href="https://localhost:3000" title="port 3000" target="_blank">Be The Hero</a>
+To see the aplication on port 3000.
 <br>
 
 ## :iphone: Mobile version
 
 Be the hero and help some ONG
 
-First run the [backend], 
+First run the <b>backend</b>, 
 then run the mobile version following these steps:
 
 ```bash
