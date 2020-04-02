@@ -36,8 +36,22 @@ of any kind.
 ## :computer: Desktop version
 
 Register your ONG and incidents.
+<br>
+First run the [backend]: 
 
-> See [here](https://github.com/diovanii/be-the-hero/tree/master/desktop) how to run this version
+```bash
+cd backend
+yarn install
+yarn start
+```
+<br>
+Then run the desktop version following these steps:
+
+```bash
+cd frontend
+yarn install
+yarn start
+```
 
 <br>
 
@@ -45,7 +59,16 @@ Register your ONG and incidents.
 
 Be the hero and help some ONG
 
-> See [here](https://github.com/diovanii/be-the-hero/tree/master/mobile) how to run this version
+First run the [backend], 
+then run the mobile version following these steps:
+
+```bash
+cd mobile
+yarn install
+yarn start
+```
+
+Download the Expo app in your phone and scan the QR Code
 
 <br>
 
