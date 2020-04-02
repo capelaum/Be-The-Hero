@@ -43,9 +43,8 @@ cd backend
 yarn install
 yarn start
 ```
-<br>
+
 Then run the <b>desktop</b> version, starting the frontend, following these steps:
-<br>
 
 ```bash
 cd frontend
@@ -72,8 +71,6 @@ yarn start
 
 Download the [Expo](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR) app in your phone and scan the QR Code.
 
-<br>
-
 ## :person_with_blond_hair: Instructor
 
 CTO at Rocketseat, passionate about the best web and mobile development technologies the instructor of the eleventh OmniStack week is [Diego Fernandes](https://github.com/diego3g)
@@ -95,8 +92,3 @@ Built with by [Capelaum](https://github.com/capelaum)
 ## :page_with_curl: License
 
 This project is under the [Mozilla Public License 2.0](https://mozilla.org/MPL/2.0)
-
-<br>
-<br>
-<br>
-
