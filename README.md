@@ -1,6 +1,6 @@
 <h1 align="center">
-  <a href="https://github.com/capelaum/Be-The-Hero-Web-App" title="Be The Hero">
-  <img src="https://i.postimg.cc/LsWC5Gxg/bethehero.png"/>
+  <a href="#" title="Be The Hero">
+    <img src="https://i.postimg.cc/LsWC5Gxg/bethehero.png"/>
   </a>
 </h1>
 
@@ -17,9 +17,10 @@
 <br>
 <br>
 
-This App helps ONGs to register incidents and search for a ‘hero’ who can support with monetary value, info or help 
-of any kind.
-
+<p>
+  This App helps ONGs to register incidents and search for a ‘hero’ who can support with monetary value, info or help 
+  of any kind.
+</p>
 <br>
 <br>
 
@@ -35,7 +36,8 @@ of any kind.
 
 ## :computer: Desktop version
 
-Register your ONG and incidents.
+Register your ONG and incidents, and save the day!
+<br>
 <br>
 First run the <b>backend</b>: 
 
@@ -53,12 +55,12 @@ yarn install
 yarn start
 ```
 Go to <a href="https://localhost:3000" title="port 3000" target="_blank">Be The Hero</a>
-To see the aplication on port 3000.
+to see the aplication on port 3000.
 <br>
 
 ## :iphone: Mobile version
 
-Be the hero and help some ONG
+Be the hero and help some ONG.
 
 First run the <b>backend</b>, 
 then run the mobile version following these steps:
@@ -69,7 +71,7 @@ yarn install
 yarn start
 ```
 
-Download the Expo app in your phone and scan the QR Code
+Download the [Expo](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR) app in your phone and scan the QR Code.
 
 <br>
 
@@ -81,13 +83,13 @@ CTO at Rocketseat, passionate about the best web and mobile development technolo
 
 ## :running: The goal
 
-The main goal is simply learn more about [Node.js](https://nodejs.org/en/), [React](https://reactjs.org/), [React Native](https://reactnative.dev/) and JavaScript
+The main goal is simply learn more about [Node.js](https://nodejs.org/en/), [React](https://reactjs.org/), [React Native](https://reactnative.dev/) and JavaScript.
 
 <br>
 
 ## :boy: Maintainer
 
-Built with :heart: by [Capelaum](https://github.com/capelaum)
+Built with by [Capelaum](https://github.com/capelaum)
 
 <br>
 
