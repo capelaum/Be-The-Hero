@@ -15,14 +15,11 @@
 
 <br>
 <br>
-<br>
 
 <p>
   This App helps ONGs to register incidents and search for a ‘hero’ who can support with monetary value, info or help 
   of any kind.
 </p>
-<br>
-<br>
 
 * [Desktop version](#computer-desktop-version)
 * [Mobile version](#iphone-mobile-version)
