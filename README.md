@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/diovanii/be-the-hero" title="Be The Hero">
+  <a href="https://github.com/caplaum/be-the-hero" title="Be The Hero">
   <img src="https://i.postimg.cc/LsWC5Gxg/bethehero.png"/>
   </a>
 </h1>
@@ -63,7 +63,7 @@ The main goal is simply learn more about [Node.js](https://nodejs.org/en/), [Rea
 
 ## :boy: Maintainer
 
-Built with :heart: by [Diovani Dal'Moro](https://github.com/diovanii)
+Built with :heart: by [Capelaum](https://github.com/capelaum)
 
 <br>
 
