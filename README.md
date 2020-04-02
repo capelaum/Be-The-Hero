@@ -36,7 +36,7 @@
 
 ## :computer: Desktop version
 
-Register your ONG and incidents, and save the day!
+Register your ONG and incidents, be a hero and save the day!
 <br>
 <br>
 First run the <b>backend</b>: 
@@ -48,7 +48,7 @@ yarn start
 ```
 <br>
 Then run the <b>desktop</b> version, starting the frontend, following these steps:
-
+<br>
 ```bash
 cd frontend
 yarn install
@@ -75,19 +75,19 @@ Download the [Expo](https://play.google.com/store/apps/details?id=host.exp.expon
 
 <br>
 
-## :man: Instructor
+## :person_with_blond_hair: Instructor
 
 CTO at Rocketseat, passionate about the best web and mobile development technologies the instructor of the eleventh OmniStack week is [Diego Fernandes](https://github.com/diego3g)
 
 <br>
 
-## :running: The goal
+## :dart: The goal
 
 The main goal is simply learn more about [Node.js](https://nodejs.org/en/), [React](https://reactjs.org/), [React Native](https://reactnative.dev/) and JavaScript.
 
 <br>
 
-## :boy: Maintainer
+## :octocat: Maintainer
 
 Built with by [Capelaum](https://github.com/capelaum)
 
