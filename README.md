@@ -40,16 +40,16 @@ First run the <b>backend</b>:
 
 ```bash
 cd backend
-yarn install
-yarn start
+npm install
+npm start
 ```
 
 Then run the <b>desktop</b> version, starting the frontend, following these steps:
 
 ```bash
 cd frontend
-yarn install
-yarn start
+npm install
+npm start
 ```
 
 Go to <a href="https://localhost:3000" title="port 3000" target="_blank">Be The Hero</a>
@@ -65,8 +65,8 @@ then run the mobile version following these steps:
 
 ```bash
 cd mobile
-yarn install
-yarn start
+npm install
+npm start
 ```
 
 Download the [Expo](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR) app in your phone and scan the QR Code.
