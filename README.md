@@ -52,7 +52,7 @@ npm install
 npm start
 ```
 
-Go to <a href="https://localhost:3000" title="port 3000" target="_blank">Be The Hero</a>
+Go to <a href="https://localhost:3000" title="port 3000" target="_blank">localhost:3000</a>
 to see the aplication on port 3000.
 <br>
 
