@@ -22,9 +22,9 @@
 
 - [:computer: Desktop version](#computer-desktop-version)
 - [:iphone: Mobile version](#iphone-mobile-version)
-- [Instructor](#instructor)
 - [:dart: The goal](#dart-the-goal)
 - [:page_with_curl: License](#pagewithcurl-license)
+- [:straight_ruler: Instructor](#straightruler-instructor)
 
 ## :computer: Desktop version
 
@@ -66,9 +66,6 @@ npm start
 
 Download the [Expo](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR) app in your phone and scan the QR Code.
 
-## Instructor
-
-CTO at Rocketseat, the instructor of the eleventh OmniStack week is [Diego Fernandes](https://github.com/diego3g)
 
 ## :dart: The goal
 
@@ -77,3 +74,7 @@ The main goal is simply learn more about [Node.js](https://nodejs.org/en/), [Rea
 ## :page_with_curl: License
 
 This project is under the [Mozilla Public License 2.0](https://mozilla.org/MPL/2.0)
+
+## :straight_ruler: Instructor
+
+CTO at Rocketseat, the instructor of the eleventh OmniStack week is [Diego Fernandes](https://github.com/diego3g)
