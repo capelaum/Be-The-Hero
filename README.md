@@ -22,9 +22,8 @@
 
 - [:computer: Desktop version](#computer-desktop-version)
 - [:iphone: Mobile version](#iphone-mobile-version)
-- [:person_with_blond_hair: Instructor](#personwithblondhair-instructor)
+- [Instructor](#instructor)
 - [:dart: The goal](#dart-the-goal)
-- [:octocat: Maintainer](#octocat-maintainer)
 - [:page_with_curl: License](#pagewithcurl-license)
 
 ## :computer: Desktop version
@@ -67,17 +66,13 @@ npm start
 
 Download the [Expo](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR) app in your phone and scan the QR Code.
 
-## :person_with_blond_hair: Instructor
+## Instructor
 
-CTO at Rocketseat, passionate about the best web and mobile development technologies the instructor of the eleventh OmniStack week is [Diego Fernandes](https://github.com/diego3g)
+CTO at Rocketseat, the instructor of the eleventh OmniStack week is [Diego Fernandes](https://github.com/diego3g)
 
 ## :dart: The goal
 
 The main goal is simply learn more about [Node.js](https://nodejs.org/en/), [React](https://reactjs.org/), [React Native](https://reactnative.dev/) and JavaScript.
-
-## :octocat: Maintainer
-
-Built with by [Capelaum](https://github.com/capelaum)
 
 ## :page_with_curl: License
 

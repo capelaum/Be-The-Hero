@@ -22,7 +22,6 @@
 - [Mobile version](#mobile-version)
 - [Instructor](#instructor)
 - [The goal](#the-goal)
-- [Maintainer](#maintainer)
 - [License](#license)
 
 ## Desktop version
@@ -72,10 +71,6 @@ CTO at Rocketseat, passionate about the best web and mobile development technolo
 ## The goal
 
 The main goal is simply learn more about [Node.js](https://nodejs.org/en/), [React](https://reactjs.org/), [React Native](https://reactnative.dev/) and JavaScript.
-
-## Maintainer
-
-Built with by [Capelaum](https://github.com/capelaum)
 
 ## License
 
