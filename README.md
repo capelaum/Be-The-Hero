@@ -14,22 +14,18 @@
 </p>
 
 <br>
-<br>
 
 <p>
   This App helps ONGs to register incidents and search for a ‘hero’ who can support with monetary value, info or help 
   of any kind.
 </p>
 
-* [Desktop version](#computer-desktop-version)
-* [Mobile version](#iphone-mobile-version)
-* [Instructor](#man-instructor)
-* [The goal](#running-the-goal)
-* [Maintainer](#boy-maintainer)
-* [License](#page_with_curl-license)
-
-<br>
-<br>
+- [:computer: Desktop version](#computer-desktop-version)
+- [:iphone: Mobile version](#iphone-mobile-version)
+- [:person_with_blond_hair: Instructor](#personwithblondhair-instructor)
+- [:dart: The goal](#dart-the-goal)
+- [:octocat: Maintainer](#octocat-maintainer)
+- [:page_with_curl: License](#pagewithcurl-license)
 
 ## :computer: Desktop version
 
@@ -75,19 +71,13 @@ Download the [Expo](https://play.google.com/store/apps/details?id=host.exp.expon
 
 CTO at Rocketseat, passionate about the best web and mobile development technologies the instructor of the eleventh OmniStack week is [Diego Fernandes](https://github.com/diego3g)
 
-<br>
-
 ## :dart: The goal
 
 The main goal is simply learn more about [Node.js](https://nodejs.org/en/), [React](https://reactjs.org/), [React Native](https://reactnative.dev/) and JavaScript.
 
-<br>
-
 ## :octocat: Maintainer
 
 Built with by [Capelaum](https://github.com/capelaum)
-
-<br>
 
 ## :page_with_curl: License
 
