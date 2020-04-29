@@ -13,9 +13,6 @@
   </sub>
 </p>
 
-<br>
-<br>
-
 <p>
   This App helps ONGs to register incidents and search for a ‘hero’ who can support with monetary value, info or help 
   of any kind.
@@ -28,14 +25,11 @@
 - [Maintainer](#maintainer)
 - [License](#license)
 
-<br>
-<br>
-
 ## Desktop version
 
 Register your ONG and incidents, be a hero and save the day!
 <br>
-<br>
+
 First run the <b>backend</b>: 
 
 ```bash
@@ -75,19 +69,13 @@ Download the [Expo](https://play.google.com/store/apps/details?id=host.exp.expon
 
 CTO at Rocketseat, passionate about the best web and mobile development technologies the instructor of the eleventh OmniStack week is [Diego Fernandes](https://github.com/diego3g)
 
-<br>
-
 ## The goal
 
 The main goal is simply learn more about [Node.js](https://nodejs.org/en/), [React](https://reactjs.org/), [React Native](https://reactnative.dev/) and JavaScript.
 
-<br>
-
 ## Maintainer
 
 Built with by [Capelaum](https://github.com/capelaum)
-
-<br>
 
 ## License
 
