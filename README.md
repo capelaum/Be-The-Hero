@@ -20,13 +20,7 @@
   of any kind.
 </p>
 
-- [:computer: Desktop version](#computer-desktop-version)
-- [:iphone: Mobile version](#iphone-mobile-version)
-- [:dart: The goal](#dart-the-goal)
-- [:page_with_curl: License](#pagewithcurl-license)
-- [:straight_ruler: Instructor](#straightruler-instructor)
-
-## :computer:  Desktop version
+## :computer:- Desktop version
 
 Register your ONG and incidents, be a hero and save the day!
 <br>
@@ -47,13 +41,11 @@ npm install
 npm start
 ```
 
-Go to <a href="https://localhost:3000" title="port 3000" target="_blank">localhost:3000</a>
-to see the aplication on port 3000.
+Go to <a href="https://localhost:3000" title="port 3000" target="_blank">localhost:3000.</a>
+
 <br>
 
 ## :iphone: Mobile version
-
-Be the hero and help some ONG.
 
 First run the <b>backend</b>, 
 then run the mobile version following these steps:
