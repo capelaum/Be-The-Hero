@@ -62,6 +62,6 @@ Download the [Expo](https://play.google.com/store/apps/details?id=host.exp.expon
 
 The main goal is simply learn more about [Node.js](https://nodejs.org/en/), [React](https://reactjs.org/), [React Native](https://reactnative.dev/) and JavaScript.
 
-CTO at [Rocketseat](https://rockeseat.com.br), the instructor of the OmniStack 11.0 week is [Diego Fernandes](https://github.com/diego3g)
+CTO at [Rocketseat](https://rocketseat.com.br), the instructor of the OmniStack 11.0 week is [Diego Fernandes](https://github.com/diego3g)
 
 :page_with_curl: This project is under the <strong>MIT</strong> License
