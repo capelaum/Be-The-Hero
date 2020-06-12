@@ -26,7 +26,7 @@
 - [:page_with_curl: License](#pagewithcurl-license)
 - [:straight_ruler: Instructor](#straightruler-instructor)
 
-## :computer: Desktop version
+## :computer:  Desktop version
 
 Register your ONG and incidents, be a hero and save the day!
 <br>
@@ -66,15 +66,10 @@ npm start
 
 Download the [Expo](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR) app in your phone and scan the QR Code.
 
-
-## :dart: The goal
+## Info
 
 The main goal is simply learn more about [Node.js](https://nodejs.org/en/), [React](https://reactjs.org/), [React Native](https://reactnative.dev/) and JavaScript.
 
-## :page_with_curl: License
+CTO at [Rocketseat](https://rockeseat.com.br), the instructor of the OmniStack 11.0 week is [Diego Fernandes](https://github.com/diego3g)
 
-This project is under the [Mozilla Public License 2.0](https://mozilla.org/MPL/2.0)
-
-## :straight_ruler: Instructor
-
-CTO at Rocketseat, the instructor of the eleventh OmniStack week is [Diego Fernandes](https://github.com/diego3g)
+:page_with_curl: This project is under the <strong>MIT</strong> License
