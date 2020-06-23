@@ -43,8 +43,6 @@ npm start
 
 Go to <a href="https://localhost:3000" title="port 3000" target="_blank">localhost:3000.</a>
 
-<br>
-
 ## :iphone: Mobile version
 
 First run the <b>backend</b>, 
@@ -58,7 +56,7 @@ npm start
 
 Download the [Expo](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR) app in your phone and scan the QR Code.
 
-## Info
+## :information_source: Info
 
 The main goal is simply learn more about [Node.js](https://nodejs.org/en/), [React](https://reactjs.org/), [React Native](https://reactnative.dev/) and JavaScript.
 
