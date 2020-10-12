@@ -20,10 +20,15 @@
     "react-dom": "~16.9.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-36.0.0.tar.gz",
     "react-native-gesture-handler": "~1.5.0",
-    "react-native-reanimated": "~1.4.0",
+    "react-native-reanimated": "~1.13.0",
     "react-native-safe-area-context": "0.6.0",
+<<<<<<< snyk-upgrade-f9bb6097c2f5cc2ee539f493e74f8964
     "react-native-screens": "2.11.0",
     "react-native-web": "~0.11.7"
+=======
+    "react-native-screens": "2.0.0-alpha.12",
+    "react-native-web": "~0.13.12"
+>>>>>>> master
   },
   "devDependencies": {
     "@babel/core": "^7.11.0",
